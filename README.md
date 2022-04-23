@@ -38,6 +38,10 @@ Shows how to use Statement and PreparedStatement classes to query database \ exe
 
 The same as above, but connection string points to remote host.
 
+### Manual transactions
+
+In this demo you will learn how to manage transactions with JDBC.
+
 ### SQL injection
 
 Funny story with definitely not funny ending.
